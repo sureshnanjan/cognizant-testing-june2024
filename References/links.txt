@@ -1,0 +1,9 @@
+Defect List:
+https://www.testdevlab.com/blog/2021/12/27/10-biggest-software-bugs-and-tech-fails-of-2021/
+
+Demo Applications:
+https://petstore.octoperf.com/actions/Catalog.action
+https://the-internet.herokuapp.com/
+
+Pairwise Test Combination
+https://pairwise.yuuniworks.com/
